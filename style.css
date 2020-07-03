@@ -1,0 +1,28 @@
+h1{color:brown;
+    font-size: xx-large;
+    font-weight: 900;}
+    img{
+        width: 50%;
+        border: 3px solid greenyellow;
+       height: 800px;
+    }
+    .bd{
+        color: brown;
+    }
+    .new{
+        color: blue;
+    }
+    .blog{
+        color:aqua;
+        background-color: blueviolet;
+        border: 5px solid yellowgreen;
+        border-radius: 30px;
+        margin: 10px;
+        
+        width: 30%;
+        height: 300px;
+        display: inline-block;
+    }
+    .blog h1,p{
+        text-align: center;
+    }
